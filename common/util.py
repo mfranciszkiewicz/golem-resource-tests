@@ -6,7 +6,7 @@ import time
 
 import multihash
 
-SHA1_BLOCK_SIZE = 65536
+SHA1_BLOCK_SIZE = 64
 DEV_NULL = open(os.devnull, 'w')
 
 
