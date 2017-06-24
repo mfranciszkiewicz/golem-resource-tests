@@ -1,0 +1,6 @@
+psutil
+click
+jsonpickle
+pystun
+pandas
+multihash
